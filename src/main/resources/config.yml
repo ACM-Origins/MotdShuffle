@@ -1,0 +1,34 @@
+#      _       ____   __  __ 
+#     / \     / ___| |  \/  |
+#    / _ \   | |     | |\/| |
+#   / ___ \  | |___  | |  | |
+#  /_/   \_\  \____| |_|  |_|
+# The creator of this plugin was fernanACM.
+# https://github.com/fernanACM
+
+# ====(SETTINGS)====
+Settings:
+  # Time to change Motd. By default it 
+  # is '30 seconds', you can change it to 
+  # the time you like.
+  delay: 30
+  # Prefix for MotdShuffle
+  prefix: "[ACM]"
+  # Add all the messages you want to appear 
+  # in the server's Motd.
+
+  # REMEMBER:
+  # You can use these 'keys' to be able to 
+  # provide information in your Motd.
+
+  # "&" => Color code '§'
+  # {PREFIX} => Motd prefix
+  # {ONLINE_PLAYERS} => Online players
+  # {MAX_PLAYERS} => Max onlie players
+  
+  messages:
+    - "&aMotdShuffle - ACM"
+    - "&bMotdShuffle - ACM"
+    - "&dMotdShuffle - ACM"
+    - "&eMotdShuffle - ACM"
+    - "&6MotdShuffle - ACM"
