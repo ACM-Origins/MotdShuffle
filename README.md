@@ -1,6 +1,6 @@
 # MotdShuffle
 
-**Improve your Proxy server's 'Motd' with MotdShuffle.**
+**Improve your Proxy server's 'Motd' with MotdShuffle. Only for WaterdogPE servers**
 
 ![image](https://github.com/user-attachments/assets/ee7f2f71-d37e-4059-a13d-5b153ce1962f)
 
